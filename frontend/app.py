@@ -1,8 +1,12 @@
 # frontend/app.py
 import streamlit as st
 import requests
+import os 
+from dotenv import load_dotenv 
 
-API_ROOT_URL = "http://127.0.0.1:8000"
+load_dotenv()
+
+API_ROOT_URL =  f"http://{os.getenv('API_BASE_URL')}:{os.getenv('FAST_API_PORT', '8080')}"
 
 st.title("Démonstration d'API avec FastAPI et Streamlit")
 
