@@ -95,7 +95,7 @@ st.markdown("---")
 st.subheader("Analyse de sentiment IA")
 
 if st.session_state.current_text:
-    st.info(f"Citation courante (ID {st.session_state.current_id}) :")
+    # st.info(f"Citation acutelle (ID {st.session_state.current_id}) :")
     st.write(st.session_state.current_text)
 else:
     st.warning("Aucune citation sélectionnée pour l'instant.")

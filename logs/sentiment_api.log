@@ -1,0 +1,34 @@
+2025-12-10 20:10:02.534 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Roses are red, Violets are blue
+2025-12-10 20:10:02.534 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-10 21:58:10.614 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Roses are red, Violets are blue
+2025-12-10 21:58:10.615 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-10 21:59:47.533 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: No Pain No Gain
+2025-12-10 21:59:47.622 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.694, 'neu': 0.0, 'pos': 0.306, 'compound': -0.5106}
+2025-12-10 22:00:06.336 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Le mal c'est pas bien
+2025-12-10 22:00:06.337 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-10 22:01:46.773 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Roses are red, Violets are blue
+2025-12-10 22:01:46.773 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-10 22:02:10.600 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: No Pain No Gain
+2025-12-10 22:02:10.601 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.694, 'neu': 0.0, 'pos': 0.306, 'compound': -0.5106}
+2025-12-10 22:16:39.345 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Roses are red, Violets are blue
+2025-12-10 22:16:39.345 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-10 22:40:04.542 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations
+2025-12-10 22:40:04.543 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5994}
+2025-12-10 22:40:13.533 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations success
+2025-12-10 22:40:13.533 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.8225}
+2025-12-10 22:40:18.648 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations success gg
+2025-12-10 22:40:18.648 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.8689}
+2025-12-10 22:40:24.449 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations success gg perfect
+2025-12-10 22:40:24.449 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.926}
+2025-12-10 22:40:34.034 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations success gg perfect amazing
+
+2025-12-10 22:40:34.034 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.9538}
+2025-12-10 22:40:39.131 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.131 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.055, 'pos': 0.945, 'compound': 0.9538}
+2025-12-10 22:40:43.550 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.550 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.045, 'pos': 0.955, 'compound': 0.9686}
+2025-12-10 22:40:48.351 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.351 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.041, 'pos': 0.959, 'compound': 0.9729}
