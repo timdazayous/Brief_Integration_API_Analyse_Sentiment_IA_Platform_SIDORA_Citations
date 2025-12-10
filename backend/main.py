@@ -6,7 +6,7 @@ import pandas as pd
 from dotenv import load_dotenv 
 from pydantic import BaseModel, Field
 
-from modules.db_tools import read_db, write_db, initialize_db
+from backend.modules.db_tools import read_db, write_db, initialize_db
 from typing import List, Annotated
 
 import random
@@ -103,7 +103,7 @@ if __name__ == "__main__":
 
     # 2 - On lance uvicorn
     uvicorn.run(
-        "main:app", 
+        "backend.main:app", 
         host = url,
         port = port, 
         reload = True

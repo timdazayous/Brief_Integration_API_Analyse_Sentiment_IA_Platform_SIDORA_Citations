@@ -1,5 +1,5 @@
 #### Installation des bibliothèques
-`pip install fastapi uvicorn loguru streamlit requests python-dotenv sqlalchemy`
+`pip install fastapi uvicorn loguru streamlit requests python-dotenv sqlalchemy pytest httpx`
 
 Un mini programme complet:
 * **frontend** (streamlit)
@@ -13,6 +13,7 @@ Un mini programme complet:
 mon_projet/
 ├── backend
 │   ├── modules
+│       ├── db_tools.py
 │   │   └── df_tools.py
 │   ├── data
 │   │   └── quotes_db.csv
@@ -23,7 +24,11 @@ mon_projet/
 │       ├── 0_insérer.py
 │       ├── 1_Afficher.py
 │       └── 2_Rechercher.py
+├── tests
+│   ├── test_backend_api.py
+│   └── test_backend_orm.py
 ├── README.md
+├── pytest.ini
 ├── .env
 ├── .venv
 └── .gitignore
