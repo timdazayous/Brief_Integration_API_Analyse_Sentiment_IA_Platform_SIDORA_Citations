@@ -1,10 +1,16 @@
 # backend/main.py
 from fastapi import FastAPI, HTTPException
 import uvicorn
-import os 
+import os
+import sys 
 import pandas as pd
 from dotenv import load_dotenv 
 from pydantic import BaseModel, Field
+
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(CURRENT_DIR)
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
 
 from backend.modules.db_tools import read_db, write_db, initialize_db
 from typing import List, Annotated
@@ -90,21 +96,20 @@ def read_random_quotes():
     return quote_data
 
 if __name__ == "__main__":
-    # 1 - on récupère le port de l'API
+    url = "127.0.0.1"
     try:
         print("Hello")
-        port = os.getenv('FAST_API_PORT')
-        url = os.getenv('API_BASE_URL')
-        port = int(port)
+        url = os.getenv("API_BASE_URL", "127.0.0.1")
+        port_str = os.getenv("FAST_API_PORT", "8000")
+        port = int(port_str)
         print(port)
     except ValueError:
         print("ERREUR")
         port = 8080
 
-    # 2 - On lance uvicorn
     uvicorn.run(
-        "backend.main:app", 
-        host = url,
-        port = port, 
-        reload = True
+        "backend.main:app",  # import string
+        host=url,
+        port=port,
+        reload=True,
     )
