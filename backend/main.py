@@ -51,13 +51,15 @@ def insert_quote(quote : QuoteRequest):
     else :
         new_id = 1 + df.index.max()
 
+    # sauvegarde dans la DB
+    write_db([{"text": quote.text}])
     # 3.1 créer la nouvelle ligne
-    objet = {"text": [quote.text]}
-    new_row = pd.DataFrame(objet, index = [new_id])
+    # objet = {"text": [quote.text]}
+    # new_row = pd.DataFrame(objet, index = [new_id])
 
     # 3.2 enregistrer le fichier csv
-    df = pd.concat([df, new_row])
-    write_db(df)
+    # df = pd.concat([df, new_row])
+    # write_db(df)
 
     # 4. pour la confirmation je vais envoyer à l'application
     # la citation avec son id

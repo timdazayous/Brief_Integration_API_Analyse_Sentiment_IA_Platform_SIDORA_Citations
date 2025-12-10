@@ -32,3 +32,63 @@
 2025-12-10 22:40:48.351 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations success gg perfect amazing 100 wow yeah
 
 2025-12-10 22:40:48.351 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.041, 'pos': 0.959, 'compound': 0.9729}
+2025-12-10 22:55:17.894 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: No pain no baguette
+2025-12-10 22:55:17.895 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.885, 'neu': 0.115, 'pos': 0.0, 'compound': -0.7717}
+2025-12-10 22:58:33.615 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: test duplicate
+2025-12-10 22:58:33.615 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-10 22:59:57.984 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: test
+2025-12-10 22:59:57.984 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-10 23:08:52.616 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: To err is human; to forgive, divine
+2025-12-10 23:08:52.617 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.467, 'pos': 0.533, 'compound': 0.6908}
+2025-12-10 23:09:01.809 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: To be or not to be, that is the question
+2025-12-10 23:09:01.809 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-10 23:09:06.526 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Roses Are Red, Violets Are Blue
+2025-12-10 23:09:06.527 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-10 23:09:10.025 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Tis better to have loved and lost than never to have loved at all
+2025-12-10 23:09:10.026 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.1, 'neu': 0.435, 'pos': 0.465, 'compound': 0.8555}
+2025-12-10 23:16:17.085 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Tell me, Mr Anderson, what good is a phone call if you're unable to speak?
+2025-12-10 23:16:17.085 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}
+2025-12-10 23:16:45.230 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Never send a human to do a machine's job.
+2025-12-10 23:16:45.230 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-10 23:19:47.341 | INFO     | backend.modules.db_tools:initialize_db:155 - La base de données SQLite existe.
+2025-12-10 23:19:47.343 | INFO     | backend.modules.db_tools:initialize_db:160 - Les tables de la BDD ont été vérifiées/créées.
+2025-12-10 23:19:47.790 | INFO     | backend.modules.db_tools:write_db:62 - Conversion de l'entrée: DataFrame -> List[dict].
+2025-12-10 23:19:47.793 | SUCCESS  | backend.modules.db_tools:write_db:89 - Écriture de 1 citation(s) dans la BDD réussie.
+2025-12-10 23:22:16.421 | INFO     | backend.modules.db_tools:initialize_db:155 - La base de données SQLite existe.
+2025-12-10 23:22:16.423 | INFO     | backend.modules.db_tools:initialize_db:160 - Les tables de la BDD ont été vérifiées/créées.
+2025-12-10 23:22:16.815 | INFO     | backend.modules.db_tools:write_db:62 - Conversion de l'entrée: DataFrame -> List[dict].
+2025-12-10 23:22:16.820 | SUCCESS  | backend.modules.db_tools:write_db:89 - Écriture de 1 citation(s) dans la BDD réussie.
+2025-12-10 23:24:33.670 | INFO     | backend.modules.db_tools:initialize_db:155 - La base de données SQLite existe.
+2025-12-10 23:24:33.672 | INFO     | backend.modules.db_tools:initialize_db:160 - Les tables de la BDD ont été vérifiées/créées.
+2025-12-10 23:24:33.690 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: hello world
+2025-12-10 23:24:33.690 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-10 23:24:33.703 | INFO     | backend.modules.db_tools:write_db:62 - Conversion de l'entrée: DataFrame -> List[dict].
+2025-12-10 23:24:33.707 | SUCCESS  | backend.modules.db_tools:write_db:89 - Écriture de 1 citation(s) dans la BDD réussie.
+2025-12-10 23:26:56.310 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulation
+2025-12-10 23:26:56.310 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5994}
+2025-12-10 23:29:58.047 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations
+2025-12-10 23:29:58.047 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5994}
+2025-12-10 23:39:40.875 | INFO     | backend.modules.db_tools:initialize_db:155 - La base de données SQLite existe.
+2025-12-10 23:39:40.876 | INFO     | backend.modules.db_tools:initialize_db:160 - Les tables de la BDD ont été vérifiées/créées.
+2025-12-10 23:39:40.901 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations
+2025-12-10 23:39:40.902 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5994}
+2025-12-10 23:39:41.275 | INFO     | backend.modules.db_tools:write_db:62 - Conversion de l'entrée: DataFrame -> List[dict].
+2025-12-10 23:39:41.280 | SUCCESS  | backend.modules.db_tools:write_db:89 - Écriture de 1 citation(s) dans la BDD réussie.
+2025-12-10 23:40:09.965 | INFO     | backend.modules.db_tools:initialize_db:155 - La base de données SQLite existe.
+2025-12-10 23:40:09.967 | INFO     | backend.modules.db_tools:initialize_db:160 - Les tables de la BDD ont été vérifiées/créées.
+2025-12-10 23:40:09.994 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations
+2025-12-10 23:40:09.995 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5994}
+2025-12-10 23:40:10.009 | INFO     | backend.modules.db_tools:write_db:62 - Conversion de l'entrée: DataFrame -> List[dict].
+2025-12-10 23:40:10.014 | SUCCESS  | backend.modules.db_tools:write_db:89 - Écriture de 1 citation(s) dans la BDD réussie.
+2025-12-10 23:50:49.031 | INFO     | backend.modules.db_tools:initialize_db:155 - La base de données SQLite existe.
+2025-12-10 23:50:49.032 | INFO     | backend.modules.db_tools:initialize_db:160 - Les tables de la BDD ont été vérifiées/créées.
+2025-12-10 23:50:49.056 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations
+2025-12-10 23:50:49.056 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5994}
+2025-12-10 23:50:49.392 | INFO     | backend.modules.db_tools:write_db:62 - Conversion de l'entrée: DataFrame -> List[dict].
+2025-12-10 23:50:49.397 | SUCCESS  | backend.modules.db_tools:write_db:89 - Écriture de 1 citation(s) dans la BDD réussie.
+2025-12-10 23:52:53.658 | INFO     | backend.modules.db_tools:initialize_db:155 - La base de données SQLite existe.
+2025-12-10 23:52:53.660 | INFO     | backend.modules.db_tools:initialize_db:160 - Les tables de la BDD ont été vérifiées/créées.
+2025-12-10 23:52:53.683 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations
+2025-12-10 23:52:53.683 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5994}
+2025-12-10 23:52:53.698 | INFO     | backend.modules.db_tools:write_db:62 - Conversion de l'entrée: DataFrame -> List[dict].
+2025-12-10 23:52:53.702 | SUCCESS  | backend.modules.db_tools:write_db:89 - Écriture de 1 citation(s) dans la BDD réussie.

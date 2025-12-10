@@ -1,0 +1,1492 @@
+2025-12-10 22:40:04.529 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-10 22:40:04.529 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-10 22:40:04.529 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-10 22:40:04.544 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-10 22:40:04.544 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-10 22:40:04.544 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-10 22:40:04.549 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:04.549 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:04.549 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:13.512 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success
+2025-12-10 22:40:13.512 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success
+2025-12-10 22:40:13.512 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success
+2025-12-10 22:40:13.512 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success
+2025-12-10 22:40:13.512 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success
+2025-12-10 22:40:13.536 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.8225}
+2025-12-10 22:40:13.536 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.8225}
+2025-12-10 22:40:13.536 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.8225}
+2025-12-10 22:40:13.536 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.8225}
+2025-12-10 22:40:13.536 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.8225}
+2025-12-10 22:40:13.537 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:13.537 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:13.537 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:13.537 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:13.537 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:18.644 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg
+2025-12-10 22:40:18.644 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg
+2025-12-10 22:40:18.644 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg
+2025-12-10 22:40:18.644 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg
+2025-12-10 22:40:18.644 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg
+2025-12-10 22:40:18.644 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg
+2025-12-10 22:40:18.644 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg
+2025-12-10 22:40:18.649 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.8689}
+2025-12-10 22:40:18.649 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.8689}
+2025-12-10 22:40:18.649 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.8689}
+2025-12-10 22:40:18.649 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.8689}
+2025-12-10 22:40:18.649 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.8689}
+2025-12-10 22:40:18.649 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.8689}
+2025-12-10 22:40:18.649 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.8689}
+2025-12-10 22:40:18.652 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:18.652 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:18.652 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:18.652 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:18.652 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:18.652 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:18.652 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:24.443 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect
+2025-12-10 22:40:24.443 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect
+2025-12-10 22:40:24.443 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect
+2025-12-10 22:40:24.443 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect
+2025-12-10 22:40:24.443 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect
+2025-12-10 22:40:24.443 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect
+2025-12-10 22:40:24.443 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect
+2025-12-10 22:40:24.443 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect
+2025-12-10 22:40:24.443 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect
+2025-12-10 22:40:24.450 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.926}
+2025-12-10 22:40:24.450 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.926}
+2025-12-10 22:40:24.450 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.926}
+2025-12-10 22:40:24.450 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.926}
+2025-12-10 22:40:24.450 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.926}
+2025-12-10 22:40:24.450 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.926}
+2025-12-10 22:40:24.450 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.926}
+2025-12-10 22:40:24.450 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.926}
+2025-12-10 22:40:24.450 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.926}
+2025-12-10 22:40:24.452 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:24.452 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:24.452 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:24.452 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:24.452 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:24.452 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:24.452 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:24.452 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:24.452 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:34.011 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing
+
+2025-12-10 22:40:34.011 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing
+
+2025-12-10 22:40:34.011 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing
+
+2025-12-10 22:40:34.011 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing
+
+2025-12-10 22:40:34.011 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing
+
+2025-12-10 22:40:34.011 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing
+
+2025-12-10 22:40:34.011 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing
+
+2025-12-10 22:40:34.011 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing
+
+2025-12-10 22:40:34.011 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing
+
+2025-12-10 22:40:34.011 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing
+
+2025-12-10 22:40:34.011 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing
+
+2025-12-10 22:40:34.035 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.9538}
+2025-12-10 22:40:34.035 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.9538}
+2025-12-10 22:40:34.035 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.9538}
+2025-12-10 22:40:34.035 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.9538}
+2025-12-10 22:40:34.035 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.9538}
+2025-12-10 22:40:34.035 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.9538}
+2025-12-10 22:40:34.035 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.9538}
+2025-12-10 22:40:34.035 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.9538}
+2025-12-10 22:40:34.035 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.9538}
+2025-12-10 22:40:34.035 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.9538}
+2025-12-10 22:40:34.035 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.9538}
+2025-12-10 22:40:34.036 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:34.036 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:34.036 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:34.036 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:34.036 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:34.036 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:34.036 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:34.036 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:34.036 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:34.036 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:34.036 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.113 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100
+
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.132 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.055,"pos":0.945,"compound":0.9538}
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:39.160 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.545 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow
+
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.551 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.045,"pos":0.955,"compound":0.9686}
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:43.553 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.346 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations success gg perfect amazing 100 wow yeah
+
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.352 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.041,"pos":0.959,"compound":0.9729}
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:40:48.355 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.131 | INFO     | __main__:<module>:69 - Demande de citation ID=12 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:10.141 | INFO     | __main__:<module>:74 - Réponse backend ID 12: {'id': 12, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.351 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:12.361 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.428 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:16.453 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.887 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:55:17.896 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.885,"neu":0.115,"pos":0.0,"compound":-0.7717}
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.267 | INFO     | __main__:<module>:69 - Demande de citation ID=13 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:08.276 | INFO     | __main__:<module>:74 - Réponse backend ID 13: {'id': 13, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.339 | INFO     | __main__:<module>:69 - Demande de citation ID=15 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:10.365 | INFO     | __main__:<module>:74 - Réponse backend ID 15: {'id': 15, 'text': 'No pain no baguette'}
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.854 | INFO     | __main__:<module>:69 - Demande de citation ID=16 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:11.865 | INFO     | __main__:<module>:74 - Réponse backend ID 16: {'id': 16, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.032 | INFO     | __main__:<module>:69 - Demande de citation ID=17 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:14.042 | INFO     | __main__:<module>:74 - Réponse backend ID 17: {'id': 17, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.127 | INFO     | __main__:<module>:69 - Demande de citation ID=18 à http://127.0.0.1:9000/read/
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:56:16.136 | INFO     | __main__:<module>:74 - Réponse backend ID 18: {'id': 18, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.610 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test duplicate
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.616 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:33.619 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.590 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.601 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.760 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.768 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 62, 'text': 'Three can keep a secret, if two of them are dead'}
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.928 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:38.936 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 42, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.026 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.037 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 35, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.161 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.194 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 36, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.278 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.288 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 56, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.409 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.443 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 29, 'text': 'No Pain No Gain'}
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.542 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:58:39.565 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 25, 'text': 'Roses are red, Violets are blue'}
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.568 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.577 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.729 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.738 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.873 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:01.883 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.020 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.031 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.162 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.175 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.293 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.303 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.404 | INFO     | __main__:<module>:69 - Demande de citation ID=1 à http://127.0.0.1:9000/read/
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:02.413 | INFO     | __main__:<module>:74 - Réponse backend ID 1: {'id': 1, 'text': "Le mal c'est pas bien"}
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.979 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : test
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.986 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 22:59:57.988 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.808 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.817 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 24, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.978 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:05.989 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 4, 'text': "Le mal c'est pas bien"}
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.131 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
+2025-12-10 23:00:06.156 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 63, 'text': 'test bug duplicate'}
