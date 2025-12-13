@@ -118,6 +118,14 @@ if st.button("Analyser le sentiment de la citation affichée"):
                 data = analyse_resp.json()
                 st.success("Résultats de l'analyse IA :")
                 st.json(data)
+
+                if data['compound'] == 0:
+                    st.info('Le score IA sentiment montre une tendance neutre')
+                elif data['compound'] > 0:
+                    st.info('Le score IA sentiment montre une tendance positive')
+                else:
+                    st.info('Le score IA sentiment montre une tendance negative')
+                    
             else:
                 st.error(f"Erreur de l'API IA : {analyse_resp.status_code}")
                 st.write("Réponse brute :", analyse_resp.text)

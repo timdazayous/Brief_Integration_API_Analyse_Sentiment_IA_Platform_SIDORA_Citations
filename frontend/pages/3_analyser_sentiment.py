@@ -33,6 +33,13 @@ if st.button("Lancez l'analyse IA"):
                 st.success("Résultat de l'analyse")
                 st.json(data)
                 logger.success("Connexion à l'api IA reussie et score polarité affiché")
+                
+                if data['compound'] == 0:
+                    st.info('Le score IA sentiment montre une tendance neutre')
+                elif data['compound'] > 0:
+                    st.info('Le score IA sentiment montre une tendance positive')
+                else:
+                    st.info('Le score IA sentiment montre une tendance negative')
             else:
                 st.error(f"Erreur de l'API IA : {analyse_resp.status_code}")
         except requests.exceptions.ConnectionError:

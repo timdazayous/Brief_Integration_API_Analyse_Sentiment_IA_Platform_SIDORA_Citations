@@ -92,3 +92,29 @@
 2025-12-10 23:52:53.683 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5994}
 2025-12-10 23:52:53.698 | INFO     | backend.modules.db_tools:write_db:62 - Conversion de l'entrée: DataFrame -> List[dict].
 2025-12-10 23:52:53.702 | SUCCESS  | backend.modules.db_tools:write_db:89 - Écriture de 1 citation(s) dans la BDD réussie.
+2025-12-11 13:52:30.307 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: I'll be back
+2025-12-11 13:52:30.307 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-11 13:52:34.818 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Elementary, my dear Watson
+2025-12-11 13:52:34.818 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.536, 'pos': 0.464, 'compound': 0.3818}
+2025-12-11 13:52:38.570 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Are you gonna bark all day, little doggie, or are you gonna bite?
+2025-12-11 13:52:38.571 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-11 13:52:48.111 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Tis better to have loved and lost than never to have loved at all
+2025-12-11 13:52:48.112 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.1, 'neu': 0.435, 'pos': 0.465, 'compound': 0.8555}
+2025-12-11 13:52:57.854 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: If you want something said, ask a man; if you want something done, ask a woman
+2025-12-11 13:52:57.854 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.822, 'pos': 0.178, 'compound': 0.1531}
+2025-12-11 13:53:03.914 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: I'll be back
+2025-12-11 13:53:03.915 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-11 13:53:10.388 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: If you want something said, ask a man; if you want something done, ask a woman
+2025-12-11 13:53:10.389 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.822, 'pos': 0.178, 'compound': 0.1531}
+2025-12-11 13:53:21.637 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: All that glitters is not gold
+2025-12-11 13:53:21.637 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-11 13:53:24.307 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Elementary, my dear Watson
+2025-12-11 13:53:24.307 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.536, 'pos': 0.464, 'compound': 0.3818}
+2025-12-11 13:53:27.004 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: Everything that has a beginning, has an end.
+2025-12-11 13:53:27.006 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-11 13:53:31.152 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: To err is human; to forgive, divine
+2025-12-11 13:53:31.153 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.467, 'pos': 0.533, 'compound': 0.6908}
+2025-12-11 14:02:58.503 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: from dusk till dawn
+2025-12-11 14:02:58.503 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-12-11 14:03:14.004 | INFO     | API_IA.sentiment_api:analyse_sentiment:31 - Analyse du texte: congratulations
+2025-12-11 14:03:14.005 | INFO     | API_IA.sentiment_api:analyse_sentiment:34 - Resultats IA: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5994}

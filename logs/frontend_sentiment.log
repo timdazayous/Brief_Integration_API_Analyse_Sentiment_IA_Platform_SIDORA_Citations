@@ -2730,3 +2730,697 @@ requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8
 2025-12-10 23:29:58.048 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
 2025-12-10 23:29:58.048 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
 2025-12-10 23:29:58.048 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 13:52:28.380 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:28.380 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:28.426 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:52:28.426 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:52:30.281 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:52:30.281 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:52:30.281 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:52:30.310 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:52:30.310 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:52:30.310 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:52:33.403 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:33.403 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:33.403 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:33.403 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:33.422 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:52:33.422 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:52:33.422 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:52:33.422 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:52:34.814 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:52:34.814 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:52:34.814 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:52:34.814 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:52:34.814 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:52:34.820 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:52:34.820 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:52:34.820 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:52:34.820 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:52:34.820 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:52:37.535 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:37.535 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:37.535 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:37.535 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:37.535 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:37.535 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:37.543 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 23, 'text': 'Are you gonna bark all day, little doggie, or are you gonna bite?'}
+2025-12-11 13:52:37.543 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 23, 'text': 'Are you gonna bark all day, little doggie, or are you gonna bite?'}
+2025-12-11 13:52:37.543 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 23, 'text': 'Are you gonna bark all day, little doggie, or are you gonna bite?'}
+2025-12-11 13:52:37.543 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 23, 'text': 'Are you gonna bark all day, little doggie, or are you gonna bite?'}
+2025-12-11 13:52:37.543 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 23, 'text': 'Are you gonna bark all day, little doggie, or are you gonna bite?'}
+2025-12-11 13:52:37.543 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 23, 'text': 'Are you gonna bark all day, little doggie, or are you gonna bite?'}
+2025-12-11 13:52:38.566 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=23
+2025-12-11 13:52:38.566 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=23
+2025-12-11 13:52:38.566 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=23
+2025-12-11 13:52:38.566 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=23
+2025-12-11 13:52:38.566 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=23
+2025-12-11 13:52:38.566 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=23
+2025-12-11 13:52:38.566 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=23
+2025-12-11 13:52:38.573 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:52:38.573 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:52:38.573 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:52:38.573 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:52:38.573 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:52:38.573 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:52:38.573 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:52:46.801 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:46.801 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:46.801 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:46.801 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:46.801 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:46.801 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:46.801 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:46.801 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:46.809 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 3, 'text': 'Tis better to have loved and lost than never to have loved at all'}
+2025-12-11 13:52:46.809 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 3, 'text': 'Tis better to have loved and lost than never to have loved at all'}
+2025-12-11 13:52:46.809 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 3, 'text': 'Tis better to have loved and lost than never to have loved at all'}
+2025-12-11 13:52:46.809 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 3, 'text': 'Tis better to have loved and lost than never to have loved at all'}
+2025-12-11 13:52:46.809 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 3, 'text': 'Tis better to have loved and lost than never to have loved at all'}
+2025-12-11 13:52:46.809 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 3, 'text': 'Tis better to have loved and lost than never to have loved at all'}
+2025-12-11 13:52:46.809 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 3, 'text': 'Tis better to have loved and lost than never to have loved at all'}
+2025-12-11 13:52:46.809 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 3, 'text': 'Tis better to have loved and lost than never to have loved at all'}
+2025-12-11 13:52:48.097 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=3
+2025-12-11 13:52:48.097 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=3
+2025-12-11 13:52:48.097 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=3
+2025-12-11 13:52:48.097 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=3
+2025-12-11 13:52:48.097 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=3
+2025-12-11 13:52:48.097 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=3
+2025-12-11 13:52:48.097 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=3
+2025-12-11 13:52:48.097 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=3
+2025-12-11 13:52:48.097 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=3
+2025-12-11 13:52:48.113 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.1,"neu":0.435,"pos":0.465,"compound":0.8555}
+2025-12-11 13:52:48.113 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.1,"neu":0.435,"pos":0.465,"compound":0.8555}
+2025-12-11 13:52:48.113 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.1,"neu":0.435,"pos":0.465,"compound":0.8555}
+2025-12-11 13:52:48.113 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.1,"neu":0.435,"pos":0.465,"compound":0.8555}
+2025-12-11 13:52:48.113 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.1,"neu":0.435,"pos":0.465,"compound":0.8555}
+2025-12-11 13:52:48.113 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.1,"neu":0.435,"pos":0.465,"compound":0.8555}
+2025-12-11 13:52:48.113 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.1,"neu":0.435,"pos":0.465,"compound":0.8555}
+2025-12-11 13:52:48.113 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.1,"neu":0.435,"pos":0.465,"compound":0.8555}
+2025-12-11 13:52:48.113 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.1,"neu":0.435,"pos":0.465,"compound":0.8555}
+2025-12-11 13:52:56.737 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:56.737 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:56.737 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:56.737 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:56.737 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:56.737 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:56.737 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:56.737 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:56.737 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:56.737 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:52:56.746 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:52:56.746 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:52:56.746 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:52:56.746 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:52:56.746 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:52:56.746 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:52:56.746 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:52:56.746 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:52:56.746 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:52:56.746 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:52:57.849 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:52:57.849 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:52:57.849 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:52:57.849 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:52:57.849 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:52:57.849 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:52:57.849 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:52:57.849 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:52:57.849 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:52:57.849 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:52:57.849 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:52:57.856 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:52:57.856 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:52:57.856 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:52:57.856 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:52:57.856 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:52:57.856 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:52:57.856 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:52:57.856 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:52:57.856 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:52:57.856 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:52:57.856 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:00.985 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:00.985 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:00.985 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:00.985 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:00.985 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:00.985 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:00.985 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:00.985 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:00.985 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:00.985 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:00.985 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:00.985 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:00.994 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:53:00.994 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:53:00.994 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:53:00.994 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:53:00.994 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:53:00.994 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:53:00.994 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:53:00.994 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:53:00.994 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:53:00.994 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:53:00.994 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:53:00.994 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 16, 'text': "I'll be back"}
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.900 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=16
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:03.917 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.050 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:09.068 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 15, 'text': 'If you want something said, ask a man; if you want something done, ask a woman'}
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.384 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=15
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:10.390 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.822,"pos":0.178,"compound":0.1531}
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.712 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:19.721 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 7, 'text': 'All that glitters is not gold'}
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.633 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=7
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:21.639 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.498 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:23.505 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 12, 'text': 'Elementary, my dear Watson'}
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.302 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=12
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:24.308 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.536,"pos":0.464,"compound":0.3818}
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.753 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:25.762 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 26, 'text': 'Everything that has a beginning, has an end.'}
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.000 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=26
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:27.007 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.011 | INFO     | __main__:<module>:34 - Demande de citation aléatoire à http://127.0.0.1:9000/read/random/
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:30.029 | INFO     | __main__:<module>:39 - Réponse backend random: {'id': 5, 'text': 'To err is human; to forgive, divine'}
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.148 | INFO     | __main__:<module>:108 - Envoi à l'API IA pour analyse: ID=5
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 13:53:31.154 | INFO     | __main__:<module>:115 - Réponse API IA status=200 body={"neg":0.0,"neu":0.467,"pos":0.533,"compound":0.6908}
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.490 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : from dusk till dawn
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.506 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":1.0,"pos":0.0,"compound":0.0}
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:02:58.508 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:13.990 | INFO     | __main__:<module>:22 - Envoi à l'API IA pour analyse : congratulations
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.006 | INFO     | __main__:<module>:29 - Réponse API IA status=200 body={"neg":0.0,"neu":0.0,"pos":1.0,"compound":0.5994}
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché
+2025-12-11 14:03:14.008 | SUCCESS  | __main__:<module>:35 - Connexion à l'api IA reussie et score polarité affiché

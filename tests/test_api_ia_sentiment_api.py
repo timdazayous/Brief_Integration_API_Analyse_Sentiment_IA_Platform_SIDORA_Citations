@@ -30,7 +30,7 @@ def test_analyse_sentiment():
     assert "pos" in data
     assert "compound" in data
 
-    # bis repeti
+    # duplicata pour mes connaissances perso
     for key in ("neg", "neu", "pos", "compound"):
         assert key in data
 
