@@ -27,7 +27,16 @@ logger.add("logs/sentiment_api.log", rotation="500 MB", level="INFO")
 
 @app.post("/analyse_sentiment/")
 async def analyse_sentiment(quote: QuoteIAnalyse):
-    """" Recoit un texte (anglophone pour une analyse correcte) et renvoie un score de sentiment par IA """
+    """" 
+    Recoit un texte (anglophone pour une analyse correcte) et renvoie un score de sentiment par IA
+
+    Paramètres
+    ----------
+    quote : QuoteIAnalyse
+        Objet contenant le texte à analyser 
+    
+    Retourne une dictionnaire contenant l'analyse de sentiment par IA
+    """
     logger.info(f"Analyse du texte: {quote.text}")
     try:
         sentiment = sia.polarity_scores(quote.text)
