@@ -75,7 +75,7 @@ Une base de données SQL pour le stockage des citations
 * 2️⃣ Terminale 2 Lancement de l'API d'analyse de sentiment IA: `py API_IA\sentiment_api.py`
 * 3️⃣ Terminale 3 Lancement de l'interface Streamlit: `streamlit run frontend\app.py`
 
-#### Conception de l'application
+#### ✏️ Conception de l'application
 
 ![Texte alternatif](image.png "Diagramme d’architecture")
 
